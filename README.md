@@ -1,2 +1,6 @@
 # mario-less
-Build a Mario half-pyramid
+Builds a Mario half-pyramid
+
+Exercise for CS50.
+
+Builds a half-pyramid with hashes and spaces as in a Mario half-pyramid.
